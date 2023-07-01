@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+Mint a NFT collection and ship a Web3 app to show them off
+Based on a BuildSpace project where I learned to programmatically generate a NFT collection, write and deploy a smart contract in Solidity, and build a React dApp that let's users connect their wallets to interact with the NFTs.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Web3 client app available at nft-starter-repo-final.emtr0.repl.co.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Connect your MetaMask wallet to mint a NFT!
