@@ -1,4 +1,4 @@
-# Mint a NFT collection and ship a Web3 app to show them off
+# Minting a NFT on the go, and web3 app for demo
 
 Based on a [BuildSpace](https://buildspace.so/) project where I learned to programmatically generate a NFT collection, write and deploy a smart contract in Solidity, and build a React dApp that let's users connect their wallets to interact with the NFTs.
 
